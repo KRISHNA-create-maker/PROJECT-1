@@ -13,4 +13,5 @@ A simple Java application designed to demonstrate object-oriented concepts and c
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/KRISHNA-create-maker/PROJECT-1.git](https://github.com/KRISHNA-create-maker/PROJECT-1.git)
+   git clone https://github.com/KRISHNA-create-maker/PROJECT-1.git
+   ```
